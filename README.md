@@ -39,6 +39,7 @@ FinancialAnalytics/
 ├── pytest.ini
 ├── requirements.txt
 └── README.md
+
 How It Works
 
 The project processes historical price data through several stages:
